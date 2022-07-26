@@ -1,3 +1,12 @@
+This is a webshop app, based on a tutorial video 
+(https://www.youtube.com/watch?v=c1xTDSIXit8). 
+I added some effects to it, like navbar with Routes,
+ product color-change options, or working buttons.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
